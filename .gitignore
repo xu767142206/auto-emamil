@@ -1,0 +1,14 @@
+.buildpath
+.settings/
+.project
+*.patch
+.git/
+.idea/
+runtime/
+.env
+.DS_Store
+*.cache
+*.log
+vendor/
+*.exe
+
